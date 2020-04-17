@@ -13,5 +13,6 @@ int main() {
 	for(int i=1; i<=9; i++) {
 		cout << "9 * " << i << " = " << 9*i << "\n";
 	}
+	cout << endl;
 	return 0;
 }
