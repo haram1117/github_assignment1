@@ -10,5 +10,8 @@ int main() {
 		}
 		cout << endl;
 	}
-	
+	for(int i=1; i<=9; i++) {
+		cout << "9 * " << i << " = " << 9*i << "\n";
+	}
+	return 0;
 }
